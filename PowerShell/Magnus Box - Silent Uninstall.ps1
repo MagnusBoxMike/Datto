@@ -3,7 +3,7 @@
 
 ### Datto RMM Start ###
 
-# This script is used to Install Magnus Box on the Device . 
+# This script is used to Uninstall Magnus Box on the Device . 
 
 # The Variables and defined location used in this script are - (Account Level) mbappname
 
