@@ -15,7 +15,7 @@ These scripts require the use of variables setup in Datto RMM.
 
 mbapiuser           This variable will define the API Username that has been setup by support
 mbapipassword       This variable will define the API User Password that has been setup by support
-mbserver            This variable is the Magnus Box Server URL. Normally in the format of <servername>.ez-backup.net
+mbserver            This variable is the Magnus Box Server URL. Normally in the format of servername.ez-backup.net
 mbserverport        This variable is the Magnus Box Server Port used. This is default to 443 unless changed.
 mbappname           This variable is the name of the backup software as it appears on the machine. It will also reference the directory location on the machine.
 mbuser              This variable is used as the Magnus Box user setup on the server. 
