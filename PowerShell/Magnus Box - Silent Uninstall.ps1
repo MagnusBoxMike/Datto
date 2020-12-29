@@ -5,7 +5,7 @@
 
 # This script is used to Install Magnus Box on the Device . 
 
-# The Variables and defined location used in this script are - (Account Level) mbappname (Site Level) mbuser / mbuserpassword. 
+# The Variables and defined location used in this script are - (Account Level) mbappname
 
 # To use this script simply create a new Datto Component. Give it a meaningful Name and Description. 
 # Choose PowerShell as the script language and simply past this entire script into the script box.
