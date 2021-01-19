@@ -7,6 +7,8 @@ Before implementing these scripts, please open a ticket by emailing support@magn
 As always, never run a script without understanding how it works. You take full responsibility for running these scripts on your clients endpoints.
 Interested in Magnus Box? Visit www.magnusbox.com for more information.
 
+Looking for Syncro scripts? Check out our separate GitHub repository <a href="https://github.com/MagnusBoxMike/Syncro-Rmm">here</a>!
+
 # Setting up in Datto RMM
 
 These scripts require the use of variables setup in Datto RMM.
