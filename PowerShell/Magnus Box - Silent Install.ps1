@@ -16,6 +16,8 @@
 
 # Set At Account Level
 $backupname = "$env:mbappname"
+$server= "$env:mbserver"
+$port= "$env:mbserverport"
 
 # Set At Site Level
 $mbu= "$env:mbuser"
